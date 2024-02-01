@@ -15,10 +15,6 @@ The following **required** functionality is completed:
 * [✓] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [✓] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 <img src='https://github.com/kylvng/web102_prework/assets/121789633/f44d4cfe-9f2d-4781-82ea-9080e4438ec4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
@@ -32,7 +28,7 @@ GIF created with Kap!
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the biggest challenges while completing the prework was familiarizing myself JavaScript again and picking up new concepts, such as ternary operators, destructing, and spread. I still had a lot of fun going through the process of constructing this site and it was cool to see how the end product functions together!
 
 ## License
 
