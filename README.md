@@ -28,11 +28,11 @@ GIF created with Kap!
 
 ## Notes
 
-One of the biggest challenges while completing the prework was familiarizing myself JavaScript again and picking up new concepts, such as ternary operators, destructing, and spread. I still had a lot of fun going through the process of constructing this site and it was cool to see how the end product functions together!
+One of the biggest challenges while completing the prework was familiarizing myself with JavaScript again and picking up new concepts, such as ternary operators, destructing, and spread. Before this project, I was already familiar with git commands, but the majoirty of my time spent was used reading the resources provided. I still had a lot of fun going through the process of constructing this site and it was cool to see how the end product functions together!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Kyle Vong]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
